@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jeremias redivivus: or, An elegiacall lamentation on the death of our English Josias, Charles the First, King of Great Britaine, &amp;c. publiquely murdered by his Calvino-Judaicall subjects.</title>
+            <author>Montagu, Walter, 1603?-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89233</idno>
+            <idno type="STC">Wing M2472A</idno>
+            <idno type="STC">Thomason E556_33</idno>
+            <idno type="STC">ESTC R202917</idno>
+            <idno type="EEBO-CITATION">99863046</idno>
+            <idno type="PROQUEST">99863046</idno>
+            <idno type="VID">165146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165146)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E556[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jeremias redivivus: or, An elegiacall lamentation on the death of our English Josias, Charles the First, King of Great Britaine, &amp;c. publiquely murdered by his Calvino-Judaicall subjects.</title>
+                  <author>Montagu, Walter, 1603?-1677.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Walter Montagu.</note>
+                  <note>In verse.</note>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "said to by [sic] written by Walter Moutacute"; "May. 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165146:1" rendition="simple:additions"/>
+            <p>
+               <hi>Jeremias Redivivus:</hi> OR, AN ELEGIACALL LAMENTATION <hi>ON</hi> The Death of our <hi>ENGLISH JOSIAS, CHARLES</hi> the FIRST, King of <hi>Great Britaine,</hi> &amp;c.</p>
+            <p>Publiquely Murdered by His <hi>Calvino-Judaicall</hi> SUBJECTS.</p>
+            <p>
+               <add>said to by written by Walther Mountacute</add>
+            </p>
+            <q>
+               <l>— Quis talia fando</l>
+               <l>Myrmidonum Dolopumve aut duri miles <g ref="char:V">Ʋ</g>lyſsis</l>
+               <l>Temperet à lachrymis?—</l>
+            </q>
+            <p>
+               <add>may. 30</add> Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:165146:2"/>
+            <pb n="1" facs="tcp:165146:2"/>
+            <head>
+               <hi>AN ELEGIE</hi> 
+               <g ref="char:V">Ʋ</g>pon <hi>KING CHARLES</hi> the Firſt, Murthered publickly by His Subjects.</head>
+            <l>WEre not my <hi>Faith</hi> boy'd up by ſacred bloud,</l>
+            <l>It might be drown'd in this prodigious floud;</l>
+            <l>VVhich reaſons higheſt ground doth ſo exceed,</l>
+            <l>It leaves my <hi>Soul</hi> no Anch'rage, but my <hi>Creed;</hi>
+            </l>
+            <l>VVhere my <hi>Faith</hi> reſting on th' <hi>Originall,</hi>
+            </l>
+            <l>Supports it felf in this the <hi>Copies</hi> fall;</l>
+            <l>So while my faith floats on that <hi>Bloudy wood,</hi>
+            </l>
+            <l>My reaſons caſt away in this <hi>Red floud,</hi>
+            </l>
+            <l>Which ne'r o'reflowes us all: Thoſe ſhowers paſt</l>
+            <l>Made but Land-flouds, which did ſome vallies waſt;</l>
+            <l>This ſtroke hath cut the only neck of land,</l>
+            <l>VVhich beetween us, and this <hi>Red Sea</hi> did ſtand,</l>
+            <l>That covers now our world, which curſed lies</l>
+            <l>At once with two of <hi>Aegypts</hi> prodigies;</l>
+            <l>
+               <pb n="2" facs="tcp:165146:3"/>
+O're caſt with <hi>darkneſſe,</hi> and with bloud o'rerun,</l>
+            <l>And juſtly, ſince our hearts have theirs out-done;</l>
+            <l>Th' inchanter led' them to a leſſe known ill,</l>
+            <l>To act his ſin, then 'twas their <hi>King to kill:</hi>
+            </l>
+            <l>Which crime hath widdowed our whole Nation,</l>
+            <l>Voided all Formes, left but privation</l>
+            <l>In <hi>Church</hi> and <hi>State;</hi> inverting ev'ry right;</l>
+            <l>Brought in Hels State, of fire without light:</l>
+            <l>No wonder then, if all good eyes look red,</l>
+            <l>VVaſhing their Loyall hearts fro<g ref="char:cmbAbbrStroke">̄</g> bloud ſo ſhed;</l>
+            <l>The which deſerves, each pore ſhould turn an eye,</l>
+            <l>To weep out, even a bloudy <hi>Agony.</hi>
+            </l>
+            <l>Let nought then paſſe for <hi>Muſick,</hi> but ſad cries;</l>
+            <l>For <hi>Beauty,</hi> blood-les cheeks, &amp; bloud-ſhot eyes.</l>
+            <l>All colours ſoile, but black; all odours have</l>
+            <l>Ill ſent, but <hi>Myrrh,</hi> incens'd upon this <hi>Grave:</hi>
+            </l>
+            <l>It notes a <hi>Jew,</hi> not to believe us much</l>
+            <l>The cleaner made, by a Religious touch</l>
+            <l>Of this <hi>Dead Body;</hi> whom to judge to die</l>
+            <l>Seemes the Iudaicall impiety.</l>
+            <l>To kill the <hi>King,</hi> the <hi>Spirit Legion</hi> paints</l>
+            <l>His rage with Law, the Temple and the Saints:</l>
+            <l>
+               <pb n="3" facs="tcp:165146:3"/>
+But the truth is, He fear'd, and did repine,</l>
+            <l>To be caſt out, and back into the Swine;</l>
+            <l>And the caſe holds, in that the Spirit bends</l>
+            <l>His malice in this Act, againſt his ends:</l>
+            <l>For it is like, the ſooner hee'l be ſent</l>
+            <l>Out of that body, He would ſtill torment:</l>
+            <l>Let <hi>Chriſtians</hi> then uſe otherwiſe this blood,</l>
+            <l>Deteſt the Act, yet turne it to their good;</l>
+            <l>Thinking how like a <hi>King of death</hi> He dies;</l>
+            <l>VVe eas'ly may the world and death deſpiſe:</l>
+            <l>Death had no ſting for Him, and its ſharp arme,</l>
+            <l>Onely of all the troop, meant Him no harme.</l>
+            <l>And ſo He look'd upon the <hi>Axe,</hi> as one</l>
+            <l>VVeapon yet left, to guard Him to His Throne;</l>
+            <l>In His great Name, then may His Subjects cry,</l>
+            <l>
+               <hi>Death thou art ſwallowed up in Victory;</hi>
+            </l>
+            <l>If this our loſſe a comfort can admit,</l>
+            <l>Tis that his narrowed <hi>Crowne</hi> was grown unfit</l>
+            <l>For his enlarged Head, ſince his diſtreſſe</l>
+            <l>Had greatned this, as it made that the leſſe;</l>
+            <l>His <hi>Crown</hi> was falne unto too low a thing</l>
+            <l>For Him, who was become ſo great a <hi>King;</hi>
+            </l>
+            <pb n="2" facs="tcp:165146:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:165146:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <l>
+               <pb n="4" facs="tcp:165146:5"/>
+So the ſame hands enthron'd him in that <hi>Crowne</hi>
+            </l>
+            <l>They had exalted from him, not pull'd downe.</l>
+            <l>And thus Gods Truth by the<g ref="char:cmbAbbrStroke">̄</g> hath rendred more,</l>
+            <l>Then ere mens falſhood promis'd to reſtore;</l>
+            <l>VVhich, ſince by death alone, he could attaine,</l>
+            <l>VVas yet exempt fro<g ref="char:cmbAbbrStroke">̄</g> weakneſſe, &amp; from paine;</l>
+            <l>Death was enjoyn'd by God, to touch a part,</l>
+            <l>Might make His paſſage quick, ne're move His heart</l>
+            <l>VVhich ev'n expiring, was ſo far fro<g ref="char:cmbAbbrStroke">̄</g>death,</l>
+            <l>It ſeem'd but to command away His breath.</l>
+            <l>And thus His <hi>Soul,</hi> of this her triumph proud,</l>
+            <l>Broke, like a flaſh of lightning, through the cloud</l>
+            <l>Of fleſh and bloud; and from the higheſt line</l>
+            <l>Of humane virtue, paſs'd to be Divine:</l>
+            <l>Nor is't much leſſe His virtues to relate,</l>
+            <l>Then the high glories of His preſent ſtate;</l>
+            <l>Since both then paſſe all Acts, but of belief;</l>
+            <l>Silence may praiſe the one, the other grief.</l>
+            <l>And ſince, upon the Diamond, no leſſe</l>
+            <l>Then Diamonds, will ſerve us to impreſſe:</l>
+            <l>I'le only wiſh, that for His Elegie,</l>
+            <l>This our <hi>Joſias,</hi> had a <hi>Jeremie.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
